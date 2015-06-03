@@ -1,2 +1,2 @@
 # Basys3FPGAProgram
-HDL program for Basys3
+HDL programs for Basys3
